@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Morphogenesis Suite
+message: If you use this software, please cite it as below.
+type: software
+authors:
+  - family-names: Page
+    given-names: Genoa
+    alias: Sai Genoa
+    affiliation: ACGC Laboratories LLC
+license: MIT
+repository-code: https://github.com/Donald-1974/morphogenesis-suite
+abstract: >
+  Interactive MAC–SPH–turgor tri-coupled solver. Lagrangian particles
+  carry mass. An Eulerian MAC grid enforces incompressibility. A Poisson
+  turgor field steers form. Computational morphogenesis only — no
+  biological interpretation.
+keywords:
+  - morphogenesis
+  - MAC
+  - SPH
+  - PIC/FLIP
+  - Poisson
+  - turgor
+  - computational physics
+version: 0.1.0
+date-released: "2026-09-15"
